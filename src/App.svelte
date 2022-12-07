@@ -3,7 +3,7 @@
 	import Socials from "./components/Socials.svelte";
 
 	let links = [
-		{title: "Instagram", url: "https://instagram.com/f.dwi_handoko"},
+		{title: "Instagram", url: "https://instagram.com/f_dwi.han"},
 		{title: "Github", url: "https://github.com/Delos-343/"},
 		{title: "LinkedIn", url: "https://www.linkedin.com/in/fachry-dwi-han/"},
 		{title: "Codepen", url: "https://codepen.io/Delos_343/"},
